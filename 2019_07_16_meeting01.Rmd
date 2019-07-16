@@ -1,0 +1,41 @@
+---
+title: "IMBEI-MeenzR - Meeting 01"
+author: "Federico Marini"
+date: "07/16/2019"
+output: html_document
+---
+
+# Intro
+
+- Federico: R since 9 years, Bioc!, package and app development
+- Jennifer: imputation, DAGs, R since 1 year
+- Jan: R for plots and statistics, now more for data analysis
+- Kishan: R since last couple of years, data munging, plotting
+- Alicia: R since 2013 or so, for stats and bioinformatics
+- Britta: R since 2017, promise data
+- Franziska: R since 3 years or so, mostly bioinfo, interested in programming languages
+- Gerrit: R since 2010, mostly stats, model fitting, plots, simulation studies
+- Toni: late adopter, can show some tricks on executing SAS code in R
+- Hamid: first contact in 2015, data management and plotting, rather user than developer
+
+# Issue 1: floating tables
+
+- float elements do not seem to play nicely with Rmd->pdf
+- janitor package for adorning tables, seems to be working nicely
+- some `stdtabl` function to present some tweaks on the "regular" `kableExtra` goodies
+
+# Brainstorming
+
+- crash course in Rmarkdown
+- package collaborative build up
+- some more content-focused presentation, 15 min max
+- make sure it is announced to the upcoming Dienstagsbesprechung
+- date for the next one: doodle will be set up
+
+# Misc
+
+- setting up the repo IMBEImisc as a package for sharing common functions -> https://github.com/imbeimainz/IMBEImisc
+
+
+
+
