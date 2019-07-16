@@ -35,7 +35,7 @@ output: html_document
 # Misc
 
 - setting up the repo IMBEImisc as a package for sharing common functions -> https://github.com/imbeimainz/IMBEImisc
-
+- this one repo itself: https://github.com/imbeimainz/IMBEI_meenzR
 
 
 
